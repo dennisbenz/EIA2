@@ -4,6 +4,7 @@ function meineFunktion() {
     if (eingabe != null) {
         document.getElementById("demo").innerHTML =
             "Hallo " + eingabe + "! Alles Klar?";
+        console.log("Hallo " + eingabe + "! Alles Klar?");
     }
 }
 //# sourceMappingURL=Aufgabe0.js.map
