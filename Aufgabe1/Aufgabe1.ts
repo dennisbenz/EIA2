@@ -1,4 +1,5 @@
 namespace Boxes {
+    function finalcut ():void {
     let n: number = 5;
     let c: string;
     let x: number = 0;
@@ -40,5 +41,7 @@ namespace Boxes {
         s.height = _height + "px";
         s.left = _x + "px";
         s.top = _y + "px";
-    }
+    }}
+        document.addEventListener("DOMContentLoaded", finalcut );
+        
 }
