@@ -1,5 +1,5 @@
 namespace Boxes {
-    function finalcut ():void {
+    function finalcut (): void {
     let n: number = 5;
     let c: string;
     let x: number = 0;
