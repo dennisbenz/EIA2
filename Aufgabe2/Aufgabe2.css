@@ -44,20 +44,20 @@ Hiermit versichere ich, dass ich diesen Code selbst geschrieben habe. Er wurde n
 	}
 
 .red{
-	background: red;
+	background: #ff0000;
 	width: 130px;
 	height: 170px;
 	border:  dotted black;
 	}
 
-.green{background: green;
+.green{background: #008040;
 	width:130px;
 	height:170px;
 	border:dotted black;
 	}
 
 .blue{
-	background: blue;
+	background: #0080c0;
 	width:130px;
 	height:170px;
 	border:dotted black;
@@ -65,7 +65,7 @@ Hiermit versichere ich, dass ich diesen Code selbst geschrieben habe. Er wurde n
 
 
 	
-.yellow{background: yellow;
+.yellow{background: #ffff00;
 	width:130px;
 	height:170px;
 	border:dotted black;
