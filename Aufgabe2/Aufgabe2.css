@@ -12,7 +12,7 @@ Hiermit versichere ich, dass ich diesen Code selbst geschrieben habe. Er wurde n
 
 
 #Ablagestapel{
-	background-color: #99A9B6;
+	background-color: #ff0000;
 	width:130px;
 	height:230px;
 	border:solid thin black;
@@ -23,7 +23,7 @@ Hiermit versichere ich, dass ich diesen Code selbst geschrieben habe. Er wurde n
 }
 
 #Nachziehstapel{
-	background-color: #977474;
+	background-color: #0080ff;
 	width:130px;
 	height:230px;
 	border:solid thin black;
@@ -50,6 +50,12 @@ Hiermit versichere ich, dass ich diesen Code selbst geschrieben habe. Er wurde n
 	border:  dotted black;
 	}
 
+.green{background: green;
+	width:130px;
+	height:170px;
+	border:dotted black;
+	}
+
 .blue{
 	background: blue;
 	width:130px;
@@ -57,12 +63,7 @@ Hiermit versichere ich, dass ich diesen Code selbst geschrieben habe. Er wurde n
 	border:dotted black;
 }
 
-.green{background: green;
-	width:130px;
-	height:170px;
-	border:dotted black;
-	}
-	
+
 	
 .yellow{background: yellow;
 	width:130px;
